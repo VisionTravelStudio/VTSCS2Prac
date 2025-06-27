@@ -8,7 +8,7 @@ VTS 跑图练习插件是一个专为 Counter-Strike 2 设计的练习插件，�
 
 ## 这个项目是我在几个小时内完成的，所以问题可能会很多！！！
 
-制作这个插件是因为某美和某E的跑图功能欠缺且道具点位过时（个人观点）。注释什么的使用 Claude Sonnet 4 生成，我也不知道对不对=)
+制作这个插件是因为某美和某E的跑图功能欠缺且道具点位过时（个人观点）。注释什么的使用 Claude Sonnet 4 生成，我也不知道对不对
 
 ## 🎯 主要功能
 
@@ -58,6 +58,8 @@ VTS 跑图练习插件是一个专为 Counter-Strike 2 设计的练习插件，�
 ### 地图切换
 
 ### 道具演示
+
+...
 
 ## 🚀 快速开始
 
@@ -189,7 +191,7 @@ dotnet build -c Release
 
 - [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) - 优秀的CS2插件框架
 - [MatchZy](https://github.com/shobhit-pathak/MatchZy) - 提供了一些指令灵感
-- 
+- [CS-advent](https://space.bilibili.com/3546687211572101) - 特殊致谢 感谢九爷在我凌晨写代码的时候提供了一些乐趣
 
 ## 📞 支持
 
