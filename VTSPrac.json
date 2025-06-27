@@ -1,0 +1,6 @@
+{
+  "bot_prefix": "PracBot",
+  "max_bots": 32,
+  "allow_crouch_bots": true,
+  "bot_difficulty": 1
+}
