@@ -1,4 +1,5 @@
 # VTS 跑图练习插件 (VTSPrac)
+# 项目在进行完整重写
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![CounterStrikeSharp](https://img.shields.io/badge/CounterStrikeSharp-1.0.315-green.svg)](https://github.com/roflmuffin/CounterStrikeSharp)
